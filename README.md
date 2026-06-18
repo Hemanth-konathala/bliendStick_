@@ -173,8 +173,6 @@ Department of Computer Science & Engineering
 Dadi Institute of Engineering & Technology  
 Academic Year: 2024–2025
 
-Guided by: **Dr. K. Sujatha**
-Professor, Department of CSE
 
 ---
 
