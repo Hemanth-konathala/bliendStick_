@@ -168,7 +168,7 @@ Ultrasonic Sensor → Arduino UNO → Buzzer/LED → User Alert
 ---
 
 ## 👨‍💻 Authors
-**Aravelli V S B Sarma**
+**Konathala hemanth**
 Department of Computer Science & Engineering  
 Dadi Institute of Engineering & Technology  
 Academic Year: 2024–2025
